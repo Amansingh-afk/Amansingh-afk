@@ -59,14 +59,6 @@ Angular_spotify-clone       55 mins             ████░░░░░░�
 
 
 ```
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
 
 📈 my github stats
 
