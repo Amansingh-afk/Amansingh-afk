@@ -1,14 +1,14 @@
-### hey there
-<a href="https://www.instagram.com/abhisheknaiidu/">
+### Hey there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+<a href="https://www.instagram.com/be_amann/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
+<a href="https://discord.gg/">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
+<a href="https://twitter.com/be_amann">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="https://www.linkedin.com/in/be_amann/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -16,10 +16,13 @@
 
 <br />
 
-hi, i'm Aman Singh, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm Aman Singh, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
+- :computer: I'm currently working on MERN Stack
+- :hourglass_flowing_sand:  Exploring Google Cloud & Microsoft Azure
+- :rocket: Always ready to collaborate for Dev Experiments
 - 💼 any freelance work? do reach, [email](mailto:amansingh.afk@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
@@ -37,16 +40,16 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-293%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-247%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages:
-JavaScript   10 hrs 5 mins   ██████████████████████▒░░   89.78 %
-TypeScript   35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-HTML         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+JavaScript                  10 hrs 5 mins   ██████████████████████▒░░   89.78 %
+TypeScript                  35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+HTML                        25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Other                       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 
 
 🐱‍💻 Projects: 
