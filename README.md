@@ -42,6 +42,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **This Week I Spent My Time On** 
 
 ```text
+💬 Programming Languages:
 JavaScript   10 hrs 5 mins   ██████████████████████▒░░   89.78 %
 TypeScript   35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
 HTML         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
