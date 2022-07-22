@@ -4,6 +4,11 @@
   i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through   open-source.
 
 
+JavaScript   10 hrs 5 mins   ██████████████████████▒░░   89.78 %
+TypeScript   35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+HTML         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+
 
 ## ✉️ Find me on:
 
