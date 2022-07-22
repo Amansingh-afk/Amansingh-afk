@@ -36,17 +36,26 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<!--START_SECTION:waka-->
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-293%20Thousand%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 JavaScript   10 hrs 5 mins   ██████████████████████▒░░   89.78 %
 TypeScript   35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
 HTML         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
 Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+
+
+🐱‍💻 Projects: 
+docking_controller       2 hrs 38 mins       ███████████░░░░░░░░░░░░░░   46.86% 
+behaviour_trees          55 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.34% 
+odom_tf_publisher        26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.71% 
+docker-pythonpddl        21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.4% 
+locations_rviz_plugins   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.72%
+
 ```
-
-<!--END_SECTION:waka-->
-
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
 🏆  7,995 Karma Points           
