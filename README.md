@@ -35,3 +35,27 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<!--START_SECTION:waka-->
+
+```text
+JavaScript   10 hrs 5 mins   ██████████████████████▒░░   89.78 %
+TypeScript   35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+HTML         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+```
+
+<!--END_SECTION:waka-->
+
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  7,995 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Amansingh-afk&show_icons=true&theme=gotham" alt="amansingh" />
