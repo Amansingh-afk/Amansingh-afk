@@ -1,16 +1,4 @@
 ### Hey there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-<a href="https://www.instagram.com/be_amann/">
-  <img align="left" alt="Aman's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/">
-  <img align="left" alt="Aman's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/be_amann">
-  <img align="left" alt="Aman | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/aman-singh-afk/">
-  <img align="left" alt="Aman's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Amansingh-afk.Amansingh)
 
